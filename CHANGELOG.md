@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.1.0 (2022-01-08)
+
+
+### Features
+
+* deployment-manager action ([8de756f](https://www.github.com/ghost-road-studio/deployment-manager/commit/8de756fdad75ac68bc13c50a6162f7f9773e5ebb))
+
 ## 0.1.0 (2022-01-07)
 
 
